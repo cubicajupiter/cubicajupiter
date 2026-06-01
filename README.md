@@ -30,9 +30,9 @@
 <tr>
 <td>
 
-## &nbsp;&nbsp;[FdF](https://github.com/mordori/FdF)
+## &nbsp;&nbsp;[Minishell](https://github.com/cubicajupiter/42Hive_minishell)
 
-&nbsp;&nbsp;&nbsp;**Simple wireframe model software renderer.**
+&nbsp;&nbsp;&nbsp;**Low-Level UNIX Command Line Interpreter (CLI).**
 - Implemented a POSIX-compliant shell together with a friend
 - C for low-level system calls to manage processes and pipeline execution
 - Interprocess communication with a pipeline using pipe and dup2
@@ -43,7 +43,7 @@
 </td>
 <td>
 
-<img src="https://github.com/mordori/FdF/blob/main/doc/42.gif" alt="Demo" width="300"/>
+<img src="" alt="Description" width="300"/>
 
 </td>
 </tr>
