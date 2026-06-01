@@ -48,7 +48,7 @@
 </td>
 <td>
 
-<img src="" alt="decription" width="300"/>
+<img src="https://github.com/cubicajupiter/nimiRT/blob/main/gallery/miniRT_torii.png" alt="decription" width="300"/>
 
 </td>
 </tr>
