@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Janne Valkama a tech lawyer transitioning to software engineering
 
 ###### Let's connect!
 
