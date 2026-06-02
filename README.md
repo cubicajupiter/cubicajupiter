@@ -71,7 +71,7 @@
 </td>
 <td>
 
-<img src="" alt="Description" width="300"/>
+<img width="300" alt="minishell" src="https://github.com/user-attachments/assets/dc0afd91-a2b7-460b-b067-8af18e6d5911" />
 
 </td>
 </tr>
