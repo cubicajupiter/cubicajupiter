@@ -24,7 +24,7 @@
 </td>
 <td>
 
-<img src="" alt="decription" width="300"/>
+<img src="" alt="WIP" width="300"/>
 
 </td>
 </tr>
