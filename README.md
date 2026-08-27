@@ -11,7 +11,7 @@
 <tr>
 <td>
 
-## &nbsp;&nbsp;[webserv](https://github.com/hieutrpham/webserver)
+## &nbsp;&nbsp;[C++ HTTP Web Server](https://github.com/hieutrpham/webserver)
 
 &nbsp;&nbsp;&nbsp;**C++ HTTP Web Server**
 - Three person teamwork project building a HTTP server
