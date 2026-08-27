@@ -1,11 +1,16 @@
-## Hi there 👋 I'm Janne Valkama a tech lawyer transitioning to software engineering
+## Hi there 👋 
+I'm Janne, a Technology lawyer transitioning to Software engineering. Coding & learning at
+Hive Helsinki. Passionate about software architecture and application
+development. Special eye for detail, engaged in high-performance low-latency
+programming, mastering C++ and embracing C. Getting along well with
+people from all walks of life with coats of all shapes, sizes and colors.
 
 ###### Let's connect!
 
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janne.e.valkama@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jannevalkama/)
 
-## 🚀 Featured Projects
+## 🚀 Some Featured Projects
 
 <table>
 <tr>
