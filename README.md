@@ -35,9 +35,9 @@ people from all walks of life with coats of all shapes, sizes and colors.
 <tr>
 <td>
 
-## &nbsp;&nbsp;[miniRT](https://github.com/cubicajupiter/nimiRT)
+## &nbsp;&nbsp;[C Ray Tracer](https://github.com/cubicajupiter/nimiRT)
 
-&nbsp;&nbsp;&nbsp;**C-based 3D Ray Tracing Engine**
+&nbsp;&nbsp;&nbsp;**C-based 3D Ray Tracing Engine from scratch**
 - Two person teamwork building a 3D ray tracing engine from scratch
 - C for low level vector maths, transformations & intersection algorithms
 - Developed a shader based on the Phong reflection model
@@ -59,10 +59,10 @@ people from all walks of life with coats of all shapes, sizes and colors.
 <tr>
 <td>
 
-## &nbsp;&nbsp;[Minishell](https://github.com/cubicajupiter/42Hive_minishell)
+## &nbsp;&nbsp;[CLI Shell in C](https://github.com/cubicajupiter/42Hive_minishell)
 
 &nbsp;&nbsp;&nbsp;**Low-Level UNIX Command Line Interpreter (CLI).**
-- Implemented a POSIX-compliant shell together with a friend
+- Implemented a POSIX-compliant shell together with another, from scratch
 - C for low-level system calls to manage processes and pipeline execution
 - Interprocess communication with a pipeline using pipe and dup2
 - Asynchonous signal handling via sigaction
