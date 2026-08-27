@@ -1,6 +1,6 @@
 ## Hi there 👋 
 I'm Janne, a Software Engineer with background in tech law. Currently studying software engineering at
-Hive Helsinki. Passionate about software architecture and application
+Hive Helsinki. Passionate about low-level software architecture and embedded, mobile and webapp
 development. Special eye for detail, engaged in high-performance low-latency
 programming, mastering C++ and embracing C. Getting along well with
 people from all walks of life with coats of all shapes, sizes and colors.
