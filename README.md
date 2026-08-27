@@ -61,7 +61,7 @@ people from all walks of life with coats of all shapes, sizes and colors.
 
 ## &nbsp;&nbsp;[CLI Shell in C](https://github.com/cubicajupiter/42Hive_minishell)
 
-&nbsp;&nbsp;&nbsp;**Low-Level UNIX Command Line Interpreter (CLI).**
+&nbsp;&nbsp;&nbsp;**Low-Level UNIX Command Line Interpreter (CLI)**
 - Implemented a POSIX-compliant shell together with another, from scratch
 - C for low-level system calls to manage processes and pipeline execution
 - Interprocess communication with a pipeline using pipe and dup2
