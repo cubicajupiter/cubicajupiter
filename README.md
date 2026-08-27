@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I'm Janne, a Technology lawyer transitioning to Software engineering. Coding & learning at
+I'm Janne, a Software Engineer with background in tech law Coding & learning at
 Hive Helsinki. Passionate about software architecture and application
 development. Special eye for detail, engaged in high-performance low-latency
 programming, mastering C++ and embracing C. Getting along well with
