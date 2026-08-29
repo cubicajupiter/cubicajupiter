@@ -3,7 +3,7 @@ I'm Janne, a Software Engineer with background in tech law. Currently studying s
 Hive Helsinki. 
 
 I keep my code as short as possible, but no shorter. 
-Avoiding bloat and reusable modularity are two of my main principles.
+Avoiding bloat and prioritizing reusable modularity are two of my main principles.
 
 Passionate about low-level software architecture and embedded, mobile and webapp
 development. Special eye for detail, engaged in high-performance low-latency
