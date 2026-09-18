@@ -21,6 +21,25 @@ programming, mastering C++ and embracing C.
 <tr>
 <td>
 
+## &nbsp;&nbsp;NodeJS Backend for a webgame (private & WIP)
+
+&nbsp;&nbsp;&nbsp;**NodeJS backend**
+- Five person project building a videogame that runs on the browser
+- **NodeJS** with TS and JS for the backend
+- **Postgres** (Prisma) and **Redis** (ioredis) for the database
+- Multicontainerized microservice infra with **Docker Compose**
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
 ## &nbsp;&nbsp;[C++ HTTP Web Server](https://github.com/hieutrpham/webserver)
 
 &nbsp;&nbsp;&nbsp;**C++ HTTP Web Server**
