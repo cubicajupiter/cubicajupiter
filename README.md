@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I'm Janne, a Software Engineer with background in tech law. Currently studying software engineering at
+I'm Janne, a developer with background in tech law. Currently studying software engineering at
 Hive Helsinki. 
 
 I keep my code as short as possible, but no shorter. 
