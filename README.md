@@ -7,8 +7,7 @@ Avoiding bloat and prioritizing reusable modularity are two of my main principle
 
 Passionate about low-level software architecture and embedded, mobile and webapp
 development. Special eye for detail, engaged in high-performance low-latency
-programming, mastering C++ and embracing C. 
-
+programming, mastering C and C++.
 
 ###### Let's connect!
 
