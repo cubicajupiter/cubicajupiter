@@ -15,7 +15,7 @@ programming, mastering C++ and embracing C.
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janne.e.valkama@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jannevalkama/)
 
-## 🚀 Some Featured Projects
+## 🚀 Some Example Projects
 
 <table>
 <tr>
