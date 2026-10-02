@@ -2,10 +2,10 @@
 I'm Janne, a developer with background in tech law. Currently studying software engineering at
 Hive Helsinki. 
 
-I keep my code as short as possible, but no shorter. 
-Avoiding bloat and prioritizing reusable modularity are two of my main principles.
+I keep my code as short as possible, but no shorter.
+Avoiding bloat and prioritizing reusable modularity & quality are two of my main principles.
 
-Passionate about low-level software architecture and embedded, mobile and webapp
+Passionate about low-level software architecture and embedded, backend, mobile and webapp
 development. Special eye for detail, engaged in high-performance low-latency
 programming, mastering C and C++.
 
